@@ -1,0 +1,14 @@
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\SeleniumPoc.deps.json
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\SeleniumPoc.runtimeconfig.json
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\SeleniumPoc.runtimeconfig.dev.json
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\SeleniumPoc.dll
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\obj\Debug\netcoreapp2.1\SeleniumPoc.csprojAssemblyReference.cache
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\obj\Debug\netcoreapp2.1\SeleniumPoc.csproj.CoreCompileInputs.cache
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\obj\Debug\netcoreapp2.1\SeleniumPoc.AssemblyInfoInputs.cache
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\obj\Debug\netcoreapp2.1\SeleniumPoc.AssemblyInfo.cs
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\bin\Debug\netcoreapp2.1\SeleniumPoc.pdb
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\obj\Debug\netcoreapp2.1\SeleniumPoc.dll
+C:\repos\SeleniumPoc\SeleniumPoc\SeleniumPoc\obj\Debug\netcoreapp2.1\SeleniumPoc.pdb

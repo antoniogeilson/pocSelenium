@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumPoc", "SeleniumPoc\SeleniumPoc.csproj", "{CDB7DC3B-70FB-4EE2-BA45-C2433A1C34C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F1049EB-BC65-43EC-A292-8D080D9B0F0E}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Automação\ProjetoSelenium\TestesIntegradosMpsAntonio\TestesIntegradosMpsAntonio\ScreenShot\ScreenshotCustom.cs = D:\Automação\ProjetoSelenium\TestesIntegradosMpsAntonio\TestesIntegradosMpsAntonio\ScreenShot\ScreenshotCustom.cs
+		D:\Automação\ProjetoSelenium\TestesIntegradosMpsAntonio\TestesIntegradosMpsAntonio\ScreenShot\ScreenShotFields.cs = D:\Automação\ProjetoSelenium\TestesIntegradosMpsAntonio\TestesIntegradosMpsAntonio\ScreenShot\ScreenShotFields.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB7DC3B-70FB-4EE2-BA45-C2433A1C34C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB7DC3B-70FB-4EE2-BA45-C2433A1C34C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB7DC3B-70FB-4EE2-BA45-C2433A1C34C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB7DC3B-70FB-4EE2-BA45-C2433A1C34C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CFB945-CC24-4D46-A85A-2663C5F54386}
+	EndGlobalSection
+EndGlobal
